@@ -45,6 +45,7 @@ Total Sales: $9.6M, Count of Unique Orders: 326, Average Order Value: $29.46K
 
 Sales by Product Line:
 The chart illustrates the total sales volume for each product line:
+
 ![image](https://github.com/Ram341999/Sales-Analysis-of-Vintage-Vehicles_Power-BI/assets/44577212/65bbfa8e-83ca-46f6-85af-df2b77de2d15)
 <br>
 This breakdown reveals that Classic Cars are the highest-selling product line, followed by Vintage Cars and Motorcycles. The data provides valuable insights into which product lines are driving the most revenue.
